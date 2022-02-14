@@ -13,3 +13,10 @@ Due to us having a step by step it really guided me through on how to navigate t
 My first conclusion would be that Louise's play is more likely to be successful if it was released toward the begining of the year, April, May, or June are ideal. My second conclusion was the theater outcomes for launchs towards the end of the year was not great as it starts to plummet after June and goes down even further in Novemenber and December.
 
 ###What can you conclude about the Outcomes based on Goals?
+I conclude that the plays that ask for a higher budget are more likely to fail. I would recommend set a goal between $30,000 to $40,00 or less. Since the data has shown us that campaigns with a low goal are more likely to succeed.
+
+ What are some limitations of this dataset?
+ Due to the fact that the data is from beofre the pandemic there are some limitations. In order to provoide Louise whith an accurate information we will need to update our information. I also believe that our data set is too big as it contains different countries. If Lousie was trying to get a accurtae number for The Great Britain, I would suggest polls from different part of The Great Britain. 
+ 
+ What are some other possible tables and/or graphs that we could create?
+I believe you can do a Histogram to visualize the results of the Launch Dates. It will also be helpfully if we have a graph for each years success and budget. 
